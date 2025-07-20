@@ -1,0 +1,17 @@
+L:\Java_Fullstack\Skills-Fusion\skillsfusion-backend\skillsfusion-backend\src\main\java\com\example\skillsfusion_backend\controller\ApplicationController.java
+L:\Java_Fullstack\Skills-Fusion\skillsfusion-backend\skillsfusion-backend\src\main\java\com\example\skillsfusion_backend\controller\ChatController.java
+L:\Java_Fullstack\Skills-Fusion\skillsfusion-backend\skillsfusion-backend\src\main\java\com\example\skillsfusion_backend\controller\ProjectController.java
+L:\Java_Fullstack\Skills-Fusion\skillsfusion-backend\skillsfusion-backend\src\main\java\com\example\skillsfusion_backend\controller\UserController.java
+L:\Java_Fullstack\Skills-Fusion\skillsfusion-backend\skillsfusion-backend\src\main\java\com\example\skillsfusion_backend\dto\ApplicationRequest.java
+L:\Java_Fullstack\Skills-Fusion\skillsfusion-backend\skillsfusion-backend\src\main\java\com\example\skillsfusion_backend\model\Application.java
+L:\Java_Fullstack\Skills-Fusion\skillsfusion-backend\skillsfusion-backend\src\main\java\com\example\skillsfusion_backend\model\ChatMessage.java
+L:\Java_Fullstack\Skills-Fusion\skillsfusion-backend\skillsfusion-backend\src\main\java\com\example\skillsfusion_backend\model\Project.java
+L:\Java_Fullstack\Skills-Fusion\skillsfusion-backend\skillsfusion-backend\src\main\java\com\example\skillsfusion_backend\model\User.java
+L:\Java_Fullstack\Skills-Fusion\skillsfusion-backend\skillsfusion-backend\src\main\java\com\example\skillsfusion_backend\repository\ApplicationRepository.java
+L:\Java_Fullstack\Skills-Fusion\skillsfusion-backend\skillsfusion-backend\src\main\java\com\example\skillsfusion_backend\repository\ChatMessageRepository.java
+L:\Java_Fullstack\Skills-Fusion\skillsfusion-backend\skillsfusion-backend\src\main\java\com\example\skillsfusion_backend\repository\ProjectRepository.java
+L:\Java_Fullstack\Skills-Fusion\skillsfusion-backend\skillsfusion-backend\src\main\java\com\example\skillsfusion_backend\repository\UserRepository.java
+L:\Java_Fullstack\Skills-Fusion\skillsfusion-backend\skillsfusion-backend\src\main\java\com\example\skillsfusion_backend\security\SecurityConfig.java
+L:\Java_Fullstack\Skills-Fusion\skillsfusion-backend\skillsfusion-backend\src\main\java\com\example\skillsfusion_backend\service\EmailService.java
+L:\Java_Fullstack\Skills-Fusion\skillsfusion-backend\skillsfusion-backend\src\main\java\com\example\skillsfusion_backend\service\ProjectService.java
+L:\Java_Fullstack\Skills-Fusion\skillsfusion-backend\skillsfusion-backend\src\main\java\com\example\skillsfusion_backend\SkillsfusionBackendApplication.java
