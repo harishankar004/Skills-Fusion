@@ -1,0 +1,2 @@
+SKills Fusion is a new age Freelancing website ehich is built using Java , Springboot and React.js in which the user can be a client or a freelancer they can create their account in the website and as a client you can post the work and as a Freelancer you can apply for the work which matches your skills.
+In this website we implemented real time mails sending using JavaMailApi and chat option using the polling technique these are our projetc's main challenging tasks and we have implemented them successfully.
